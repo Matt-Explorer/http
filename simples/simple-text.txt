@@ -1,0 +1,3 @@
+This is the simple text
+First line of the text
+Second line of the text
